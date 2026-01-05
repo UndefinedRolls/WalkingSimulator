@@ -15,5 +15,10 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 
+<<<<<<< HEAD
 # Project-specific ignores
 .Models/
+=======
+#project specific ignores
+.Models.
+>>>>>>> c641afe (again)
